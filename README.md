@@ -2,7 +2,7 @@
 A simple Java Text Editor made using Java Swing.
 
 ## Motivation
-I want to make a text editor that implements data structures (sepcifically stacks and linked lists) and so for starters, I thought of building something similar but simpler to get a gist of the general functionalities. And also for fun:)
+To make a text editor that implements data structures (sepcifically stacks and linked lists) and so for starters, I thought of building something similar but simpler to get a gist of the general functionalities. And also for fun:)
 
 ## Functionalities
 + Can open a file using FileReader and BufferedReader classes
